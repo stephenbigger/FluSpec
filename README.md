@@ -12,7 +12,7 @@ The FluSpec educational software package is a fully contained tutorial on the te
 The FluSpec software is provided as a standalone application.  Versions exist that run on standard Macintosh OSX or Windows environments. The software should be run in conjunction with a standard spreadsheet program for the plotting and labeling of the processed output data.
 
 ### Recommended Systems
-It is anticipated the software will successfully run on a wide range of Macintosh and PC systems.  The following systems are examples of ones that have been successfully trialed:
+It is anticipated the software will successfully run on a wide range of Macintosh and PC systems.  The following systems are examples of ones that have been successfully trialled:
 
 #### Macintosh
 * Mac OSX 10.6 or later
